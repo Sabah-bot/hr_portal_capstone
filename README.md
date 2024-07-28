@@ -197,6 +197,9 @@ npm install
 npm run dev
 ```
 
+## Accessibility
+
+Our team TimeTrackers ⏰ care about accessibility and have implemented aria-label attribute for screen readers in this application. We have also planned for Dyslexia-friendly mode to increase webpage legibility for users with learning disorders like dyslexia. It not only helps those with said disorders, but also users who prefer visual modifications for easier reading. We hope to implement this and more in the future! 
 
 
 ## Acknowledgements
